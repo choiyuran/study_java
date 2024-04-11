@@ -1,6 +1,6 @@
 # Java 스터디
 
-![image](https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FVvUoG%2Fbtq7V601BJe%2FY5wBLdEwPk120xxCFGAAlk%2Fimg.jpg)
+![image](https://img.megastudyacademy.co.kr/campus/lecture/2023020617272316756720434541.png)
 
 
 # 스터디
