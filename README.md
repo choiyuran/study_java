@@ -1,6 +1,6 @@
 # Java 스터디
 
-![image](https://github.com/LeeBG/JPA_Reapeat/assets/44068819/55239c0b-31fa-4ecc-8e49-188139a547b5)
+![image](https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FVvUoG%2Fbtq7V601BJe%2FY5wBLdEwPk120xxCFGAAlk%2Fimg.jpg)
 
 
 # 스터디
