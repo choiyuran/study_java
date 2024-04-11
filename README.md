@@ -12,7 +12,7 @@
 
 | 번호 |  일차  |          내용          |     소스코드      |
 | :--: | :----: | :--------------------: | :---------------: |
-|  00  | 1일차  |   반복문 라벨링/배열      | [바로가기 day01](https://github.com/choiyuran/Study_JPA/tree/main/jpashop-API/src/main/java/jpabook/jpashop) |
+|  00  | 1일차  |   반복문 라벨링/배열      | [바로가기 day01](https://github.com/choiyuran/study_java/tree/main/week01/programmers) |
 |  01  | 2일차  |    엔티티 매핑, 연관관계 매핑 기초    | [바로가기 day02](https://github.com/choiyuran/Study_JPA/tree/main/day02_2/src/main/java/org/example/domain) |
 |  02  | 3일차  |  다양한 연관관계 매핑, 고급 매핑      | [바로가기 day03](https://github.com/choiyuran/Study_JPA/tree/main/day03_Problem3/src/main/java/org/example) |
 |  03  | 4일차  |  프록시와 연관관계 관리, 값 타입      | [바로가기 day04_1](https://github.com/choiyuran/Study_JPA/tree/main/day04_6/src/main/java/jpabook/jpashop/domain) /[day04_2](https://github.com/choiyuran/Study_JPA/tree/main/ex04-relationship-Mapping/src/main/java/org/example/Domain)|
