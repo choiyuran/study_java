@@ -14,7 +14,7 @@
 | :--: | :----: | :--------------------: | :---------------: |
 |  Java  | 1일차  |   반복문 라벨링/배열      | [day01](https://github.com/choiyuran/study_java/tree/main/week01/programmers) |
 |  SQL  | 2일차  |    데이터 조회(SELECT)    | [day02](https://www.notion.so/choiyuran/Study-java_database-7b1f5e5a140141a7801becd96dad3e86?p=86c7047756854f13900cd59216204e58&pm=c) |
-|  Java  | 3일차  |  객체 지향 프로그래밍(OOP)      | [day03](https://www.notion.so/choiyuran/Study-java_database-7b1f5e5a140141a7801becd96dad3e86?p=0e16aac9298541ada939686443e73a67&pm=c) |
+|  Java  | 3일차  |  객체 지향 프로그래밍(OOP)      | [노션](https://www.notion.so/choiyuran/Study-java_database-7b1f5e5a140141a7801becd96dad3e86?p=0e16aac9298541ada939686443e73a67&pm=c) / [코드](https://github.com/choiyuran/study_java/tree/main/week02/oop) |
 |  SQL  | 4일차  |  집계함수(SUM, MAX, MIN, AVG, COUNT) / 중복 제거(DISTINCT)      | [day04](https://www.notion.so/choiyuran/Study-java_database-7b1f5e5a140141a7801becd96dad3e86?p=4dcbf0e256d74631880809c8014f74a4&pm=c) |
 |  04  | 5일차  |  객체 지향 쿼리 언어(JPQL), 프로젝트 환경설정 | [바로가기 day05](https://github.com/choiyuran/Study_JPA/tree/main/day05_subQuery/src/main/java/org/example) |
 |  05  | 6일차  |  예제 도메인 모델                    | [바로가기 day06](https://github.com/choiyuran/Study_JPA/tree/main/datajpa3/src/main/java/study/datajpa) |
