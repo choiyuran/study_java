@@ -12,7 +12,7 @@
 
 | 구분 |  일차  |          내용          |     소스코드      |
 | :--: | :----: | :--------------------: | :---------------: |
-|  Java  | 1일차  |   반복문 라벨링/배열      | [day01_1](https://www.notion.so/choiyuran/3fe484d19cf74a66995937789463febd?pvs=4) / [day01_2](https://github.com/choiyuran/study_java/tree/main/week01/programmers) |
+|  Java  | 1일차  |   반복문 라벨링/배열      | [day01_1](https://choiyuran.notion.site/3fe484d19cf74a66995937789463febd?pvs=4) / [day01_2](https://github.com/choiyuran/study_java/tree/main/week01/programmers) |
 |  SQL  | 2일차  |    데이터 조회(SELECT)    | [day02](https://choiyuran.notion.site/select-86c7047756854f13900cd59216204e58?pvs=4) |
 |  Java  | 3일차  |  객체 지향 프로그래밍(OOP)      | [day03_1](https://www.notion.so/choiyuran/OOP-0e16aac9298541ada939686443e73a67?pvs=4) / [day03_2](https://github.com/choiyuran/study_java/tree/main/week02/oop) |
 |  SQL  | 4일차  |  집계함수(SUM, MAX, MIN, AVG, COUNT) / 중복 제거(DISTINCT)      | [day04](https://choiyuran.notion.site/SUM-MAX-MIN-AVG-COUNT-DISTINCT-4dcbf0e256d74631880809c8014f74a4?pvs=4) |
