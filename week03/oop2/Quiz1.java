@@ -34,7 +34,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Account {
+abstract class Account {
     String accountNumber;   // 계좌번호
     Long balance;           // 잔액
     String name;            // 예금주
@@ -48,24 +48,15 @@ class Account {
     // 입금
     public void deposit(Long money) {
         balance += money;
-        System.out.println(money + "원이 입금되었습니다. 잔액은" + balance + "원 입니다.");
+        System.out.println(money + "원이 입금되었습니다. 잔액은 " +balance+ "원입니다.");
     }
-    
+
     // 출금
-    public void withdraw(Long money) {
-        if(balance < money) {
-            System.out.println("잔액이 부족합니다.");
-        }
-        else {
-            System.out.println(money + "원이 출금되었습니다.");
-            balance -= money;
-        }
-    }
+    public abstract void withdraw(Long money);
 }
 
 class SavingsAccount extends Account{
     Double interestRate;           // 이자율
-
 
     public SavingsAccount(String accountNumber, Long balance, String name, Double interestRate) {
         super(accountNumber, balance, name);
@@ -75,17 +66,23 @@ class SavingsAccount extends Account{
     // 출금
     @Override
     public void withdraw(Long money) {
-        double d = money * (interestRate / 100);            // 출금할 돈에 대한 이자율 계산
-        long l = (long)d;                                   // long 타입으로 형변환
-        money += l;                 // 출금할 금액과 이자율의 합
-        balance -= money;           // 이자율을 합한 최종 금액을 뺌
+        if(balance < money) {
+            System.out.println("잔액이 부족합니다.");
+        }
+        else {
+            double d = money * (interestRate / 100);            // 출금할 돈에 대한 이자율 계산
+            long l = (long)d;                                   // long 타입으로 형변환
+            money += l;                 // 출금할 금액과 이자율의 합
+            balance -= money;           // 이자율을 합한 최종 금액을 뺌
+            System.out.println("출금 후 잔액은 " + balance + "원입니다.");
+        }
     }
 
     @Override
     public String toString() {
         return "저축 계좌 : {" +
                 "accountNumber = '" + accountNumber + "'" +
-                ", balance = '" + balance + '\'' +
+                ", balance = '" + balance + "원" + '\'' +
                 ", name = '" + name + "'" +
                 ", interestRate = '" + interestRate + '\'' +
                 "}";
@@ -103,15 +100,21 @@ class CheckingAccount extends Account {
     // 출금
     @Override
     public void withdraw(Long money) {
-        money += fee;
-        balance -= money;
+        if(balance < money) {
+            System.out.println("잔액이 부족합니다.");
+        }
+        else {
+            money += fee;
+            balance -= money;
+            System.out.println("출금 후 잔액은 " + balance + "원입니다.");
+        }
     }
 
     @Override
     public String toString() {
         return "체크 계좌 : {" +
                 "accountNumber = '" + accountNumber + "'" +
-                ", balance = '" + balance + '\'' +
+                ", balance = '" + balance + "원" + '\'' +
                 ", name = '" + name + "'" +
                 ", fee = '" + fee + '\'' +
                 "}";
@@ -182,11 +185,16 @@ public class Quiz1 {
         System.out.println("<< 계좌 목록 >>");
         bank.printAllAccounts();
 
+        account.deposit(100000L);
+        account.withdraw(10000L);
+        account.withdraw(1000000L);
+
         System.out.println("==========================================================================");
-        bank.deleteAccount(account);
+        bank.deleteAccount(account2);
         System.out.println();
 
-        System.out.println("<< 삭제 후 계좌 목록 >>1");
+        System.out.println("<< 삭제 후 계좌 목록 >>");
         bank.printAllAccounts();
+
     }
 }
