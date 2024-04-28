@@ -17,7 +17,7 @@
 |  JAVA  | 3일차  | 객체 지향 프로그래밍(OOP) Part1  | [day03_1](https://github.com/choiyuran/study_java/tree/main/week02/oop) / [day03_2](https://choiyuran.notion.site/OOP-0e16aac9298541ada939686443e73a67?pvs=4) |
 |  SQL  | 4일차  | 집계함수(SUM, MAX, MIN, AVG, COUNT) / 중복 제거(DISTINCT)      | [day04](https://choiyuran.notion.site/SUM-MAX-MIN-AVG-COUNT-DISTINCT-4dcbf0e256d74631880809c8014f74a4?pvs=4) |
 |  JAVA  | 5일차  | 객체 지향 프로그래밍(OOP) Part2 | [day05_1](https://github.com/choiyuran/study_java/tree/main/week03/oop2) / [day05_2](https://choiyuran.notion.site/OOP-Part2-c5627a46fcf148ffaa27727b0b71a0ca?pvs=4) |
-|  SQL  | 6일차  |  예제 도메인 모델                    | [바로가기 day06](https://github.com/choiyuran/Study_JPA/tree/main/datajpa3/src/main/java/study/datajpa) |
+|  SQL  | 6일차  |  GROUP BY~HAVING                    | [day06](https://choiyuran.notion.site/GROUP-BY-HAVING-9376c8274f6e431abff499fffe29bb4f?pvs=4) |
 |  06  | 7일차  |  기본 문법, 중급 문법                | [바로가기 day07](https://github.com/choiyuran/Study_JPA/tree/main/datajpa3/src/main/java/study/datajpa) |
 |  07  | 8일차  |  순수 JPA와 Querydsl                | [바로가기 day08](https://github.com/choiyuran/Study_JPA/tree/main/querydsl/src/main/java/study/querydsl) |
 |  08  | 9일차  |  스프링 데이터 JPA와 QueryDsl        | [바로가기 day09](https://github.com/choiyuran/Study_JPA/tree/main/querydsl2/src/main/java/study/querydsl) |
