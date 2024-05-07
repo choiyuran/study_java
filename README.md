@@ -19,7 +19,7 @@
 |  JAVA  | 5일차  | 객체 지향 프로그래밍(OOP) Part2 | [day05_1](https://github.com/choiyuran/study_java/tree/main/week03/oop2) / [day05_2](https://choiyuran.notion.site/OOP-Part2-c5627a46fcf148ffaa27727b0b71a0ca?pvs=4) |
 |  SQL  | 6일차  |  GROUP BY~HAVING                    | [day06](https://choiyuran.notion.site/GROUP-BY-HAVING-9376c8274f6e431abff499fffe29bb4f?pvs=4) |
 |  JAVA | 7일차  |  예외처리/java.lang패키지와 유용한 클래스   | [day07](https://choiyuran.notion.site/java-lang-90c6df571cb3498a8a3ffd95dfc6a546?pvs=4) |
-|  07  | 8일차  |  순수 JPA와 Querydsl                | [바로가기 day08](https://github.com/choiyuran/Study_JPA/tree/main/querydsl/src/main/java/study/querydsl) |
+|  SQL  | 8일차  |  JOIN                | [day08](https://choiyuran.notion.site/JOIN-32762dbbf24c48eba8c377836f35bbb5?pvs=4) |
 |  08  | 9일차  |  스프링 데이터 JPA와 QueryDsl        | [바로가기 day09](https://github.com/choiyuran/Study_JPA/tree/main/querydsl2/src/main/java/study/querydsl) |
 |  09  | 10일차 |  스프링 데이터 JPA가 제공하는 QueryDsl  | [바로가기 day10](https://github.com/choiyuran/Study_JPA/tree/main/querydsl3/src/main/java/study/querydsl) |
 |  10  | 11일차 |   스프링 부트 3.x(2.6 이상), Querydsl 5.0 지원 방법  | [바로가기 day11](https://github.com/choiyuran/JPA_pdf/blob/main/querydsl-v20231127/8.%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EB%B6%80%ED%8A%B8%203.x(2.6%20%EC%9D%B4%EC%83%81)%2C%20Querydsl%205.0%20%EC%A7%80%EC%9B%90%20%EB%B0%A9%EB%B2%95.pdf) |
