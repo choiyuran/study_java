@@ -1,8 +1,8 @@
 # JAVA, SQL 스터디
 
 ![image](https://img.megastudyacademy.co.kr/campus/lecture/2023020617272316756720434541.png)
-</br>
 
+</br>
 ## 일정
 - [화_Java, 금_SQL] 13:00 ~ 18:00
 </br>
