@@ -40,7 +40,7 @@ public class Ex04 {
 
         // 2024년 5월 1일
         startDate.set(2024, Calendar.MAY, 1);
-        // 2024년 9월 10일
+        // 2024년 10월 10일
         endDate.set(2024, Calendar.OCTOBER, 10);
 
         System.out.println("월급날의 수 : " + countPaydays(startDate, endDate));
