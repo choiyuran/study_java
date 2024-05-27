@@ -19,13 +19,13 @@ public class Ex04 {
         Calendar cal = (Calendar) start.clone();
         cal.set(Calendar.DAY_OF_MONTH, 21);             // 월급 날
 
-        // 시작일이 종료일보다 이후가 아닐 경우 계속 반복
+        // 월급 날이 종료일보다 이후가 아닐 경우
+        // 즉, 월급 날이 종료일 보다 작거나 같을때까지 반복
         while (!cal.after(end)) {
-            // 월급 날이 시작일보다 크거나 같거나 그리고
-            // 월급 날이 종료일보다 작거나 같을 때 
+            // while반복에서 종료일과 월급 날의 관계를 설정했기 때문에 if에서는 시작일과 월급 날의 관계를 설정하면 됨.
+            // 월급 날이 시작일보다 크거나 같을 때,
             // 시작일과 종료일 사이에 월급 날이 있다고 볼 수 있음
-            if ((cal.after(start) || cal.equals(start)) 
-                    && (cal.before(end) || cal.equals(end))) {
+            if ((cal.after(start) || cal.equals(start))) {
                 paydaysCount++;
             }
             // 다음 달로 이동
@@ -38,14 +38,12 @@ public class Ex04 {
         Calendar startDate = Calendar.getInstance();
         Calendar endDate = Calendar.getInstance();
 
-        // 예시 시작일과 종료일 설정
         // 2024년 5월 1일
         startDate.set(2024, Calendar.MAY, 1);
-        // 2024년 5월 10일
+        // 2024년 9월 10일
         endDate.set(2024, Calendar.OCTOBER, 10);
 
         System.out.println("월급날의 수 : " + countPaydays(startDate, endDate));
     }
-
 
 }
