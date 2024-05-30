@@ -22,7 +22,7 @@
 |  JAVA  | 9일차  |  날짜와 시간     | [day09](https://github.com/choiyuran/study_java/tree/main/week05/dateTime) / [노션](https://choiyuran.notion.site/2a10cb2c35ea431b89db35d1054e6e61?pvs=4) |
 |  SQL  | 10일차 |  STRING, DATE  | [day10](https://choiyuran.notion.site/STRING-DATE-00f3b934d5974674837f3dcc4b684335?pvs=4) |
 |  SQL  | 11일차 |  STRING, DATE (프로그래머스Lv.4)   | [day11](https://choiyuran.notion.site/STRING-DATE-00f3b934d5974674837f3dcc4b684335?pvs=4) 
-|  JAVA  | 12일차 |  컬렉션 프레임워크   | [day12]() 
+|  JAVA  | 12일차 |  컬렉션 프레임워크   | [day12]() / [노션](https://choiyuran.notion.site/c43259fd22874e53894df008d7a674fd?pvs=4) |
 
 
 
