@@ -1,7 +1,5 @@
 package javaStudy.week05DateTimeEx2;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 
 // 어떤 회사의 월급날이 매월 21일이다.
