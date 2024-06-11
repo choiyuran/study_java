@@ -1,4 +1,4 @@
-package javaStudy.week07Collection2.Set.TreeSet;
+package javaStudy.week07Collection2.set.treeSet;
 
 import java.util.TreeSet;
 

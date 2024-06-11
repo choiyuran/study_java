@@ -1,7 +1,6 @@
-package javaStudy.week07Collection2.Map.HashMap;
+package javaStudy.week07Collection2.map.hashMap;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class HashMapEx2 {
     public static void main(String[] args) {

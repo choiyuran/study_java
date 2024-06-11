@@ -1,4 +1,4 @@
-package javaStudy.week07Collection2.Set.HashSet;
+package javaStudy.week07Collection2.set.hashSet;
 
 import java.util.*;
 

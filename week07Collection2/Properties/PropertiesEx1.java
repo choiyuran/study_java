@@ -1,4 +1,4 @@
-package javaStudy.week07Collection2.Properties;
+package javaStudy.week07Collection2.properties;
 
 import java.util.Enumeration;
 import java.util.Properties;

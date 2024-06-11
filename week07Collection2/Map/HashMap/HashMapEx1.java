@@ -1,4 +1,4 @@
-package javaStudy.week07Collection2.Map.HashMap;
+package javaStudy.week07Collection2.map.hashMap;
 
 import java.util.HashMap;
 import java.util.Scanner;

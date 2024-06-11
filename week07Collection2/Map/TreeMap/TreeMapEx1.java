@@ -1,4 +1,4 @@
-package javaStudy.week07Collection2.Map.TreeMap;
+package javaStudy.week07Collection2.map.treeMap;
 
 import java.util.*;
 
