@@ -24,6 +24,7 @@
 |  SQL  | 11일차 |  STRING, DATE (프로그래머스Lv.4)   | [day11](https://choiyuran.notion.site/STRING-DATE-00f3b934d5974674837f3dcc4b684335?pvs=4) 
 |  JAVA  | 12일차 |  컬렉션 프레임워크   | [day12](https://github.com/choiyuran/study_java/tree/main/week06Collection) / [노션](https://choiyuran.notion.site/c43259fd22874e53894df008d7a674fd?pvs=4) |
 |  SQL  | 13일차 |  DDL, DML, DCL, TCL  | [day13](https://choiyuran.notion.site/DDL-DML-DCL-TCL-21b5edff9444424383f7568d83998a6f?pvs=4) 
+|  JAVA  | 14일차 |  컬렉션 프레임워크2  | [day14](https://github.com/choiyuran/study_java/tree/main/week07Collection2) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
 
 
 
