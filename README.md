@@ -1,6 +1,6 @@
 # JAVA, SQL 스터디
 
-<img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000" width="800" height="400"/>
+![image](https://img.megastudyacademy.co.kr/campus/lecture/2023020617272316756720434541.png)
 
 ## 일정
 - [화_Java, 금_SQL] 13:00 ~ 18:00
