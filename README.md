@@ -1,6 +1,7 @@
 # JAVA, SQL 스터디
 
-<img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000.png  width="200" height="400"/>
+![image](https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=1000)
+<img src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=6000  width="200" height="400"/>
 
 
 ## 일정
