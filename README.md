@@ -25,6 +25,7 @@
 |  SQL  | 13일차 |  DDL, DML, DCL, TCL  | [day13](https://choiyuran.notion.site/DDL-DML-DCL-TCL-21b5edff9444424383f7568d83998a6f?pvs=4) 
 |  JAVA  | 14일차 |  컬렉션 프레임워크2  | [day14](https://github.com/choiyuran/study_java/tree/main/week07Collection2) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
 |  JAVA  | 15일차 |  제네릭스 & 열거형  | [day15](https://github.com/choiyuran/study_java/tree/main/week08) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
+|  JAVA  | 16일차 |  어노테이션 & 쓰레드  | [day16](https://github.com/choiyuran/study_java/tree/main/week08)
 
 
 
