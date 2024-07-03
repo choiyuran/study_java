@@ -27,7 +27,7 @@
 |  JAVA  | 15일차 |  제네릭스 & 열거형  | [day15](https://github.com/choiyuran/study_java/tree/main/week08) / [노션](https://choiyuran.notion.site/2-4938777720054cc2b1d2a41ceb89cf3d?pvs=4)
 |  JAVA  | 16일차 |  어노테이션 & 쓰레드  | [day16](https://github.com/choiyuran/study_java/tree/main/week10/thread) / [어노테이션](https://choiyuran.notion.site/29bbbfec3e424a8399367b03b1e5e2d5?pvs=4), [쓰레드](https://choiyuran.notion.site/72225f4b6bb8447895a5268b57bb9f5f?pvs=4)
 |  JAVA  | 17일차 |  우선순위, 쓰레드 그룹, 데몬 쓰레드, 실행제어  | [day17](https://github.com/choiyuran/study_java/tree/main/week11/thread2) / [노션](https://choiyuran.notion.site/2-fc91dae1378047c2895bab6aa34883cf?pvs=4)
-|  JAVA  | 18일차 |  쓰레드 동기화 | [day18](https://github.com/choiyuran/study_java/tree/main/week11/thread2) / [노션](https://choiyuran.notion.site/2-fc91dae1378047c2895bab6aa34883cf?pvs=4)
+|  JAVA  | 18일차 |  쓰레드 동기화 | [day18](https://github.com/choiyuran/study_java/tree/main/week12/thread3) / [노션](https://choiyuran.notion.site/2-fc91dae1378047c2895bab6aa34883cf?pvs=4)
 
 
 
