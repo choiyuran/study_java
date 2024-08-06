@@ -30,7 +30,7 @@
 |  JAVA  | 18일차 |  쓰레드 동기화 & 람다와 스트림 | [day18](https://github.com/choiyuran/study_java/tree/main/week12/thread3) / [쓰레드 동기화](https://choiyuran.notion.site/3-104efade5d054065b1e544dbdc7cdc04?pvs=4) /[람다와 스트림](https://choiyuran.notion.site/6510566aafcc4c4da90a20d6e17aaedc?pvs=4)
 |  JAVA  | 19일차 |  람다와 스트림(2)  | [day19](https://github.com/choiyuran/study_java/tree/main/week14/lambda) / [노션](https://choiyuran.notion.site/2-905e6cd683194cb09cd3832c13961f4a?pvs=4)
 |  JAVA  | 20일차 |  스트림  | [day20](https://github.com/choiyuran/study_java/tree/main/week15) / [노션](https://choiyuran.notion.site/9e0f9a9930544f7bab0a3c2b7533c02c?pvs=4)
-|  JAVA  | 21일차 |  스트림(2) | [노션](https://choiyuran.notion.site/2-f050726f1d774b1cbbafba4907f080e0?pvs=4)
+|  JAVA  | 21일차 |  스트림(2) | [day21](https://github.com/choiyuran/study_java/tree/main/week17/stream) / [노션](https://choiyuran.notion.site/2-f050726f1d774b1cbbafba4907f080e0?pvs=4)
 
 
 
