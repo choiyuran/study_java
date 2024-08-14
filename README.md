@@ -32,6 +32,7 @@
 |  JAVA  | 20일차 |  스트림  | [day20](https://github.com/choiyuran/study_java/tree/main/week15) / [노션](https://choiyuran.notion.site/9e0f9a9930544f7bab0a3c2b7533c02c?pvs=4)
 |  JAVA  | 21일차 |  스트림(2) | [day21](https://github.com/choiyuran/study_java/tree/main/week17/stream) / [노션](https://choiyuran.notion.site/2-f050726f1d774b1cbbafba4907f080e0?pvs=4)
 |  JAVA  | 22일차 |  스트림(3) & 입출력(I/O) | [스트림](https://choiyuran.notion.site/3-afe56a410aa64bdfa4d79bf304eff26f?pvs=4) / [입출력](https://choiyuran.notion.site/I-O-450ca755a38f4f7bb6c78688ddad8338?pvs=4)
+|  JAVA  | 22일차 |  입출력(I/O)_(2) | [스트림](https://choiyuran.notion.site/3-afe56a410aa64bdfa4d79bf304eff26f?pvs=4)
 
 
 
