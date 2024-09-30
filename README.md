@@ -1,4 +1,4 @@
-# JAVA, SQL 스터디
+# JAVA & SQL 스터디
 
 ![image](https://img.megastudyacademy.co.kr/campus/lecture/2023020617272316756720434541.png)
 
